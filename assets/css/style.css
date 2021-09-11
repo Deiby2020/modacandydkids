@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 /* Círculos de colores numerados AGREGADOS A ESTA PLANTILLA POR MI*/
-span.red {
+span.rojo {
   background: red;
    border-radius: 0.8em;
   -moz-border-radius: 0.8em;
