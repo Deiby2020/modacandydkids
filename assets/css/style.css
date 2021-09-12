@@ -12,6 +12,10 @@ body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
   background: rgba(231, 182, 238, 0.623);
+  background-image: url("../img/fondo2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  max-width: 100%;
 }
 
 a {
