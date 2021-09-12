@@ -195,9 +195,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 .readmore:hover {
-  color: #fff;
+  color: #000;
   text-decoration: none;
-  background: #000;
+  background: rgb(37,211,102);
 }
 
 .testimonials-slider .swiper-pagination {
